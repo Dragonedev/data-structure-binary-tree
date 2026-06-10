@@ -38,3 +38,13 @@ Each patient is identified by a unique protocol number, which is used as the key
 - Object-Oriented Programming (OOP)
 - Binary Search Tree (BST)
 - Recursion
+
+## Complexity Analysis
+
+| Operation | Average Case | Worst Case |
+|-----------|-------------|------------|
+| Insert    | O(log n)    | O(n)       |
+| Search    | O(log n)    | O(n)       |
+| Remove    | O(log n)    | O(n)       |
+| Traversal | O(n)        | O(n)       |
+
